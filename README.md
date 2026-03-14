@@ -1,6 +1,44 @@
-# ODA-SBS-library
-A website for a library of a high-school found in Bishoftu Ethiopia. 
-!REMEMBER!
-This is not an official website. And it was done by me only. The school is not participated in this.
+ODA SBS Library
 
-If you see this and believe it is good work, you can get me with my social medias if you want to work with me further.
+A website for a library of a high-school found in Bishoftu, Ethiopia. **Front end only.**
+
+Features
+
+- Beautiful library website for ODA SBS High School
+- User-friendly navigation and information
+- Responsive design
+
+Technologies Used
+
+- CSS (65.8%)
+- HTML (34.2%)
+
+Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FiraolTsegaye/ODA-SBS-library.git
+   cd ODA-SBS-library
+   ```
+2. Open `index.html` in your browser.
+
+Project Structure
+
+
+ODA-SBS-library/
+├── index.html
+├── style.css
+├── assets/
+└── README.md
+
+
+ Contributing
+
+Feedback and contributions are welcome.
+
+License
+
+See [LICENSE](LICENSE) for details.
+
+
+> Author: [FiraolTsegaye](https://github.com/FiraolTsegaye)
